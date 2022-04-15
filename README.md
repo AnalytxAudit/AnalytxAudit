@@ -1,6 +1,6 @@
-# Hello, here Analytix Audit 👋 
+# Hello, here Analytx Audit 👋 
 
-This is the unique official github of Analytix Audit, please check our github on our official website: https://www.analytixaudit.com/
+This is the unique official github of Analytx Audit, please check our github on our official website: https://www.analytixaudit.com/
 
 
 #### Analytix provides following services 🎯 :
