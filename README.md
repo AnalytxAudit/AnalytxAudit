@@ -1,9 +1,9 @@
 # Hello, here Analytx Audit 👋 
 
-This is the unique official github of Analytx Audit, please check our github on our official website: https://www.analytixaudit.com/
+This is the unique official github of Analytx Audit, please check our github on our official telegram: https://t.me/smartanalytx
 
 
-#### Analytix provides following services 🎯 :
+#### Smart Analytx provides following services 🎯 :
 
 • Smart Contract Free Auditing                    
 • Smart Contract Premium Auditing                
@@ -13,15 +13,12 @@ This is the unique official github of Analytx Audit, please check our github on 
 
 Method 1:
 
-You can get a quote for an audit dm @FreddyCryptos on telegram or simply ask in our official telegram group: https://t.me/AnalytixAudit    
+You can get a quote for an audit dm @SmartAmike on telegram or simply ask in our official telegram group: https://t.me/smartanalytx    
 
-Method 2:
-
-You can fill the form in our website https://www.analytixaudit.com/     
+ 
 
 #### Official Links 🔗: 
 
-• Website: https://www.analytixaudit.com/      
-• Telegram: https://t.me/AnalytixAudit    
-• Twitter: https://twitter.com/AnalytixA    
-• Disqus: https://disqus.com/by/AnalytixAudit/?l=en_US 
+• Github: https://github.com/SmartAnalytxA/     
+• Telegram: https://t.me/smartanalytx
+• Telegram Admin: https://t.me/smartAmike
